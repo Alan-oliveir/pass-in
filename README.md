@@ -8,9 +8,8 @@ A ferramenta permite que o organizador cadastre um evento e abra uma página pú
 Os participantes inscritos podem emitir uma credencial para check-in no dia do evento.
 O sistema fará um scan da credencial do participante para permitir a entrada no evento.
 
-## Imagens
-
-![screen](images/diagrama-erd.png) ![screen](images/pass-in_img.png)
+### Imagens
+![screen](images/pass-in_img.png)
 
 ## Agradecimentos   
 Desenvolvido durante o evento NLW Unite promovido pela [Rocktseat](https://www.rocketseat.com.br/), na trilha Java.
