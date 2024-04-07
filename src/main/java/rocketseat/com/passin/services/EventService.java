@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 import lombok.RequiredArgsConstructor;
 import rocketseat.com.passin.domain.attendee.Attendee;
-import rocketseat.com.passin.domain.attendee.exceptions.EventFullException;
+import rocketseat.com.passin.domain.event.exceptions.EventFullException;
 import rocketseat.com.passin.domain.event.Event;
 import rocketseat.com.passin.domain.event.exceptions.EventNotFoundException;
 import rocketseat.com.passin.dto.attendee.AttendeeIdDTO;
